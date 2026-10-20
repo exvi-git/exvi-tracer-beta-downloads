@@ -1,0 +1,16 @@
+name: Relay verified 0.65.0 corresponding source
+on:
+  repository_dispatch:
+    types: [relay-verified-065-source]
+permissions:
+  contents: write
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Copy and verify the unchanged corresponding-source archive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/relay_source_065.py
