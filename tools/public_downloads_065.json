@@ -1,0 +1,86 @@
+[
+  {
+    "logical_path": "macos-arm64/exvi.tracer-0.65.0-macOS-arm64-Internal-corresponding-source.tar.gz",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/exvi.tracer-0.65.0-macOS-arm64-Internal-corresponding-source.tar.gz",
+    "bytes": 986516330,
+    "sha256": "590a94455e74a04819cfad2e6164c0c94e2f4472b2ffec33994661020bd6dfdb"
+  },
+  {
+    "logical_path": "macos-arm64/exvi.tracer-0.65.0-macOS-arm64-Internal-unsigned.pkg",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/exvi.tracer-0.65.0-macOS-arm64-Internal-unsigned.pkg",
+    "bytes": 23603734,
+    "sha256": "731a18812fcbdd1e2f67e223e9dbe1fb4257430303086d8b18aa6c621d7a333d"
+  },
+  {
+    "logical_path": "macos-arm64/exvi.tracer-0.65.0-macOS-arm64-Internal.dmg",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/exvi.tracer-0.65.0-macOS-arm64-Internal.dmg",
+    "bytes": 25278167,
+    "sha256": "112e56f6ddcc2adb4831b51a9bdf50f897e02a0851245d54f26522f1c5290907"
+  },
+  {
+    "logical_path": "macos-arm64/release_manifest.json",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/release_manifest-macos-arm64.json",
+    "bytes": 606,
+    "sha256": "19bfe7758420d5d1ad0651b59f8725862dbfda904c6c07674036975d88f08ed2"
+  },
+  {
+    "logical_path": "README_BUILD.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/README_BUILD.txt",
+    "bytes": 3723,
+    "sha256": "f555ef0b99b8488b118a2eeb23889294e6979b476b8ceedff7da20c932545369"
+  },
+  {
+    "logical_path": "release_manifest.json",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/release_manifest.json",
+    "bytes": 1265,
+    "sha256": "1a7ef4579c7813282dfecd2d882801c7b353155c4a9e2649334e2eb0b87609f3"
+  },
+  {
+    "logical_path": "windows-x64/exvi.tracer-0.65.0-Windows-x64-portable.zip",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/exvi.tracer-0.65.0-Windows-x64-portable.zip",
+    "bytes": 640459601,
+    "sha256": "0426d526f26e7b528049cccda731890ec815ce93dd507969241c8cdd5ac05ffa"
+  },
+  {
+    "logical_path": "windows-x64/exvi.tracer-0.65.0-Windows-x64-Setup.exe",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/exvi.tracer-0.65.0-Windows-x64-Setup.exe",
+    "bytes": 619294879,
+    "sha256": "892b1a028ac5fe1ce4e8ad9f5418d5d849e090fcc82ef3821b1c35348d108e2e"
+  },
+  {
+    "logical_path": "windows-x64/release_manifest.json",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/release_manifest-windows-x64.json",
+    "bytes": 566,
+    "sha256": "f49766f3d6ca250a86db7cb6570bd60de99f5f152bcfca4f031d1587ccdb60bf"
+  },
+  {
+    "logical_path": "BETA_LICENSE_PRIVACY.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/BETA_LICENSE_PRIVACY.txt",
+    "bytes": 3210,
+    "sha256": "4549f310cf492926c5bdc9ed994dd7500a6716ed34ac70d81a630ad821e5f08b"
+  },
+  {
+    "logical_path": "windows-x64/SHA256SUMS.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/SHA256SUMS-windows-x64.txt",
+    "bytes": 320,
+    "sha256": "bef19132cc7c1413f8c31ee42b7a66dff63ef80e52dfb9853c52c8b529acd8a7"
+  },
+  {
+    "logical_path": "macos-arm64/SHA256SUMS.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/SHA256SUMS-macos-arm64.txt",
+    "bytes": 467,
+    "sha256": "0aaadc8dab09b2e3826dd21762096eb785fc3216cec575b5c3baf83af9b430b2"
+  },
+  {
+    "logical_path": "README_DEPLOY.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/README_DEPLOY.txt",
+    "bytes": 1758,
+    "sha256": "5e44d7234af435cf46e46b48ac99ec2688c22d9d6b2f895e8e7a1c0fccc2209e"
+  },
+  {
+    "logical_path": "SHA256SUMS.txt",
+    "url": "https://github.com/exvi-git/exvi-tracer-beta-downloads/releases/download/v0.65.0-beta/SHA256SUMS.txt",
+    "bytes": 1325,
+    "sha256": "aa268e1b51865b911de211ec0873ff802bf7e91c1045b49785e51ec59724f38d"
+  }
+]
