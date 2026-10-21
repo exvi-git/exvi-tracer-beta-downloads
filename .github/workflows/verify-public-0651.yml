@@ -1,0 +1,21 @@
+name: Verify public 0.65.1 downloads
+on:
+  repository_dispatch:
+    types: [verify-public-0651-downloads]
+permissions:
+  contents: read
+jobs:
+  downloads:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stream every unauthenticated public download and verify its hash
+        run: python3 tools/verify_public_0651.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: public-0651-download-verification
+          path: public-verification.json
+          if-no-files-found: error
+          retention-days: 14
